@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Building a Bonding Curve Token on Midnight with Real ZK Proofs",
+    "publishedAt": "Mar 17, 2026",
+    "url": "https://dev.to/tusharpamnani/building-a-bonding-curve-token-on-midnight-with-real-zk-proofs-2h0i",
+    "summary": "Step-by-step implementation of a bonding curve token on Midnight using Compact. Covers off-chain computation with witnesses, on-chain ZK verification, maintaining reserve invariants, and how this model differs from traditional EVM-based token design.",
+    "author": "Tushar_Pamnani_",
+    "writerTwitter": "https://twitter.com/Tushar_Pamnani_"
+  },
+  {
+    "id": 2,
+    "title": "Why Midnight Chooses ZKPs Over FHE for Scalable Data Protection",
+    "publishedAt": "Mar 20, 2026",
+    "url": "https://dev.to/meekowen/why-midnight-chooses-zkps-over-fhe-for-scalable-data-protection-41jm",
+    "summary": "Explains why Midnight uses zero-knowledge proofs instead of fully homomorphic encryption. Breaks down trade-offs in performance, composability, and developer usability, and why ZKPs are more practical for real-world privacy-preserving applications.",
+    "author": "Meek Owen's",
+    "writerTwitter": "https://twitter.com/MeekOwens149350"
+  },
+  {
+    "id": 3,
+    "title": "The Builder’s Guide to Tokens on the Midnight Network",
+    "publishedAt": "Mar 24, 2026",
+    "url": "https://dev.to/kalidecoder/the-builders-guide-to-tokens-on-the-midnight-network-15la",
+    "summary": "A practical guide to designing tokens on Midnight. Covers privacy-aware token models, selective disclosure, compliance considerations, and how Midnight’s architecture changes standard ERC-style token assumptions.",
+    "author": "itsNikku876",
+    "writerTwitter": "https://twitter.com/itsNikku876"
+  },
+  {
+    "id": 4,
+    "title": "Midnight Blockchain Architecture (Layman Explanation)",
+    "publishedAt": "Mar 25, 2026",
+    "url": "https://dev.to/kalidecoder/midnight-blockchain-architecture-layman-explanation--4idb",
+    "summary": "A simplified breakdown of Midnight’s architecture, including its execution model, privacy layers, and how it combines off-chain computation with on-chain verification to enable confidential smart contracts.",
+    "author": "itsNikku876",
+    "writerTwitter": "https://twitter.com/itsNikku876"
+  },
+  {
+    "id": 5,
+    "title": "You're probably using exportLedger wrong",
+    "publishedAt": "Mar 27, 2026",
+    "url": "https://dev.to/tusharpamnani/youre-probably-using-export-ledger-wrong-4j1c",
+    "summary": "Deep dive into Midnight state design. Explains when to use exportLedger vs private state, common mistakes devs make by copying EVM patterns, and how to structure contracts for intentional data exposure and privacy.",
+    "author": "Tushar Pamnani",
+    "writerTwitter": "https://twitter.com/Tushar_Pamnani_"
+  },
+  {
+    "id": 6,
+    "title": "How Midnight Coordinates Two-Party Transfers",
+    "publishedAt": "Mar 28, 2026",
+    "url": "https://dev.to/midnight-aliit/how-midnight-coordinates-two-party-transfers-3dfh",
+    "summary": "Explains the mechanics of private two-party transfers on Midnight, including coordination between participants, witness generation, and how correctness is enforced without revealing transaction details.",
+    "author": "Tushar Pamnani",
+    "writerTwitter": "https://twitter.com/Tushar_Pamnani_"
+  },
+  {
+    "id": 7,
+    "title": "Why This Launch Matters for Blockchain’s Next Chapter",
+    "publishedAt": "Mar 30, 2026",
+    "url": "https://dev.to/midnight-aliit/why-this-launch-matters-for-blockchains-next-chapter-cif",
+    "summary": "High-level perspective on Midnight’s launch and its impact on blockchain evolution. Focuses on the shift toward programmable privacy, regulatory alignment, and new categories of applications enabled by confidential computation.",
+    "author": "Meek Owen's",
+    "writerTwitter": "https://twitter.com/MeekOwens149350"
+  },
+  {
+    "id": 8,
+    "title": "Selective Disclosure: Self-Managing DIDs for AI Agents",
+    "publishedAt": "Mar 31, 2026",
+    "url": "https://dev.to/midnight-aliit/selective-disclosure-self-managing-dids-for-ai-agents-3kcl",
+    "summary": "Explores decentralized identity for AI agents using selective disclosure. Covers how agents can prove attributes without exposing full identity, and how Midnight enables self-sovereign, privacy-preserving DID systems.",
+    "author": "Alex Pestchanker",
+    "writerTwitter": "https://twitter.com/alexchain79"
+  },
+  {
+    "id": 9,
+    "title": "How Midnight Verifies Tokens Without Computing It",
+    "publishedAt": "Apr 1, 2026",
+    "url": "https://dev.to/midnight-aliit/how-midnight-verifies-tokens-without-computing-it-5co6",
+    "summary": "Breaks down how Midnight verifies token state using proofs instead of direct computation. Covers witness-based design, verification flows, and why this model improves scalability and privacy.",
+    "author": "Tushar Pamnani",
+    "writerTwitter": "https://twitter.com/Tushar_Pamnani_"
+  },
+  {
+    "id": 10,
+    "title": "Building Privacy-Preserving Decentralized Identity on Midnight",
+    "publishedAt": "Apr 1, 2026",
+    "url": "https://dev.to/midnight-aliit/building-privacy-preserving-decentralized-identity-on-midnight-3abn",
+    "summary": "Guide to building decentralized identity systems on Midnight. Covers credential issuance, selective disclosure, and how to design identity flows that preserve privacy while remaining verifiable.",
+    "author": "Nasihudeen Jimoh",
+    "writerTwitter": "https://twitter.com"
+  }
+]
