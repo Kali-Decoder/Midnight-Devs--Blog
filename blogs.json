@@ -96,5 +96,13 @@
     "summary": "In most blockchains, one token does everything it stores value and pays for transactions. For example, on Ethereum you use ETH for both holding value and paying gas fees, and on Bitcoin BTC serves a similar dual purpose.",
     "author": "itsNikku876",
     "writerTwitter": "https://twitter.com/itsNikku876"
+  }, {
+    "id": 12,
+    "title": "The Builder’s Guide to Tokens : on the Midnight Network",
+    "publishedAt": "Apr 2, 2026",
+    "url": "https://dev.to/kalidecoder/the-builders-guide-to-tokens-on-the-midnight-network-15la",
+    "summary": "Blockchain is powerful because it is open and transparent. But that also creates a problem. Everyone can see everything, which is not always good when dealing with sensitive data. This is called the transparency paradox.",
+    "author": "itsNikku876",
+    "writerTwitter": "https://twitter.com/itsNikku876"
   }
 ]
