@@ -88,5 +88,13 @@
     "summary": "Guide to building decentralized identity systems on Midnight. Covers credential issuance, selective disclosure, and how to design identity flows that preserve privacy while remaining verifiable.",
     "author": "Nasihudeen Jimoh",
     "writerTwitter": "https://twitter.com"
+  }, {
+    "id": 11,
+    "title": "DUST vs NIGHT: Rethinking How Blockchains Handle Value and Fees",
+    "publishedAt": "Apr 2, 2026",
+    "url": "https://dev.to/kalidecoder/dust-vs-night-rethinking-how-blockchains-handle-value-and-fees-586l",
+    "summary": "In most blockchains, one token does everything it stores value and pays for transactions. For example, on Ethereum you use ETH for both holding value and paying gas fees, and on Bitcoin BTC serves a similar dual purpose.",
+    "author": "itsNikku876",
+    "writerTwitter": "https://twitter.com/itsNikku876"
   }
 ]
