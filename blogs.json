@@ -112,5 +112,14 @@
     "summary": "Proving you belong without revealing who you are: that's the core idea behind ZK membership proofs. On Midnight, you can prove your address is on an allowlist, holds a credential, or meets a condition, without exposing the address itself or anything else about you. The proof is the only thing that goes on-chain.",    "author": "itsNikku876",
     "author": "Tushar Pamnani",
     "writerTwitter": "https://twitter.com/Tushar_Pamnani_"
-  }
+  },
+  {
+    "id": 14,
+    "title": "Selective Disclosure and Self Managing DIDs for AI Agents",
+    "publishedAt": "Mar 31, 2026",
+    "url": "https://dev.to/midnight-aliit/selective-disclosure-self-managing-dids-for-ai-agents-3kcl",
+    "summary": "This article explores the growing gap between the rapid adoption of AI agents and the lack of secure identity frameworks to support them. While agents today can access sensitive data and execute actions autonomously, they operate without robust identity, permission, or trust models. The paper proposes a solution based on Decentralized Identifiers (DIDs), Verifiable Credentials, and selective disclosure, combined with Midnight’s privacy-preserving execution layer. It introduces a layered architecture where agents manage their own identity through secure components like an Agent Vault and policy engine, and demonstrates these concepts through an MVP implementation. The result is a vision for autonomous agents that are not only capable, but also secure, accountable, and privacy-first by design.",
+    "author": "Alex Pestchanker",
+    "writerTwitter": "https://twitter.com/alexchain79"
+ }
 ]
