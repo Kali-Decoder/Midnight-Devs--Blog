@@ -121,5 +121,13 @@
     "summary": "This article explores the growing gap between the rapid adoption of AI agents and the lack of secure identity frameworks to support them. While agents today can access sensitive data and execute actions autonomously, they operate without robust identity, permission, or trust models. The paper proposes a solution based on Decentralized Identifiers (DIDs), Verifiable Credentials, and selective disclosure, combined with Midnight’s privacy-preserving execution layer. It introduces a layered architecture where agents manage their own identity through secure components like an Agent Vault and policy engine, and demonstrates these concepts through an MVP implementation. The result is a vision for autonomous agents that are not only capable, but also secure, accountable, and privacy-first by design.",
     "author": "Alex Pestchanker",
     "writerTwitter": "https://twitter.com/alexchain79"
- }
+ },{
+  "id": 15,
+  "title": "Building a Fungible Token in Compact (Midnight)",
+  "publishedAt": "Apr 4, 2026",
+  "url": "https://dev.to/kalidecoder/building-a-fungible-token-in-compact-midnight-3nfh",
+  "summary": "This article explains how to build a fungible token using Compact on Midnight, covering key differences from Solidity such as the absence of inheritance, use of modules, and common errors developers face.",
+  "author": "itsNikku876",
+  "writerTwitter": "https://twitter.com/itsNikku876"
+}
 ]
